@@ -1,3 +1,4 @@
-Are you a huge fan of Star Wars?
+Are you a Star Wars fan?
+Type this command to watch an ASCII  text-based version of Star Wars Episode IV: A New Hope:
 
-Type telnet towel.blinkenlights.nl followed by enter to watch an ASCII  text-based version of Star Wars Episode IV: A New Hope.
+telnet towel.blinkenlights.nl
